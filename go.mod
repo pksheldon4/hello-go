@@ -1,3 +1,3 @@
 module your_domain/hello
 
-go 1.17
+go 1.16
